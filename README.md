@@ -1,4 +1,10 @@
 # man
+[![Codacy Badge](
+https://app.codacy.com/project/badge/Grade/89fa62574ed74d2eaed8ccb177ce1b6f)](
+https://www.codacy.com/gh/glaucuslinux/man/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=glaucuslinux/man&amp;utm_campaign=Badge_Grade)
+[![Join the chat at https://gitter.im/glaucuslinux/man](
+https://badges.gitter.im/glaucuslinux/man.svg)](
+https://gitter.im/glaucuslinux/man?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 glaucus's manual pages
 
